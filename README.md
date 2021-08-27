@@ -20,7 +20,8 @@
   <img align = "center" alt = "Tati-Ubuntu" height ="30" width = "40" src ="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img align = "center" alt = "Tati-Mint" height ="30" width = "40" src ="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
   <img align = "center" alt = "Tati-Windows" height ="30" width = "40" src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
- </div>
+  <img align = "right"  alt = "Tati-Gif" src ="https://picrew.me/share?cd=otDJqZfdHO #Picrew #AmphyPop_Doll_Maker">
+  </div>
    
   ##
  
