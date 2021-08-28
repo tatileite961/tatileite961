@@ -11,6 +11,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tatileite961&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatileite961&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
 <Div style = "display: inline_block"> <br>
   <img align = "center" alt = "Tati-HTML" height ="30" width = "40" src ="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align = "center" alt = "Tati-CSS3" height ="30" width = "40" src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
@@ -28,7 +29,7 @@
 <div> 
 <a href = "https://instagram.com/tati.leite.961" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/tatileite961" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href="https://https://discord.com/Thaty961" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<a href="https://https://discord.com/Thaty961#9366" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/tatiane-leite-andrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/tatileite961/tatileite961/blob/output/github-contribution-grid-snake.svg)
