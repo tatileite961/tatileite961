@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently procurando estágio em Gestão da Tecnologia da Informação 
 - 🌱 I’m currently learning HTML
-- 📫 How to reach me: thatyaneleite241@gmail.com
+- 📫 How to reach me: tatianeleiteandrade@yahoo.com.br
 - 😄 Pronouns: ela/dela
 
 
